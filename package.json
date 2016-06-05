@@ -1,0 +1,15 @@
+{
+  "name": "slackathon",
+  "version": "1.0.0",
+  "description": "The best bot in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.2.0",
+    "node-soundcloud": "0.0.5"
+  }
+}
